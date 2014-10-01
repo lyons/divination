@@ -1,7 +1,7 @@
 Divination
 ==========
 
-Encode images using HTML <div>s, because why not?<sup>*</sup>
+Encode images using HTML &lt;div&gt;s, because why not?<sup>*</sup>
 
 ## API
 
@@ -49,4 +49,4 @@ $ raco pkg install
                   #:block-size 5)
 ```
 
-<small><sup>*</sup>There are so many reasons why not</small>
+<sup>*</sup>There are so many reasons why not
